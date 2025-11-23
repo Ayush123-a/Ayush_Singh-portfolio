@@ -52,7 +52,7 @@ nav ul li a::after{
     content: '';
     width: 0%;
     height: 3px;
-    background: #ff004f;
+    background: #29b6e0;
     position: absolute;
     left: 0;
     bottom: -6px;
@@ -128,7 +128,7 @@ nav ul li a:hover::after{
     margin: 10px 0;
 }
 .tab-contents ul li span{
-    color: #b54769;
+    color: #498ad4;
     font-size: 14px;
 }
 .tab-contents{
@@ -173,7 +173,7 @@ nav ul li a:hover::after{
     display: inline-block;
 }
 .services-list div:hover{
-    background: #ff004f;
+    background: #20bbcf;
     transform: translate(-10px);
 }
 
@@ -222,7 +222,7 @@ nav ul li a:hover::after{
 }
 .layer a{
     margin-top: 20px;
-    color: #ff004f;
+    color: #33da57;
     text-decoration: none;
     font-size: 18px;
     line-height: 60px;
