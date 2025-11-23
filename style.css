@@ -113,7 +113,7 @@ nav ul li a:hover::after{
     content: '';
     width: 0%;
     height: 3px;
-    background: #20d1d1;
+    background: #f00e07;
     position: absolute;
     left: 0;
     bottom: -8px;
@@ -251,21 +251,21 @@ nav ul li a:hover::after{
     transition: background 0.5s;
 }
 .btn:hover{
-    background: #ff004f;
+    background: #ff0101;
 }
 
 /*------------------contact----------------*/
 .contact-left{
-    flex-basis: 35%;
+    /* flex-basis: 35%; */
 }
 .contact-right{
-    flex-basis: 60%;
+    /* flex-basis: 60%; */
 }
 .contact-left p{
     margin-top: 30px;
 }
 .contact-left p i{
-    color: #ff004f;
+    color: #103fd8;
     margin-right: 15px;
     font-size: 25px;
 }
@@ -281,12 +281,12 @@ nav ul li a:hover::after{
     transition: transform 0.5s, color 0.5s;
 }
 .social-icons a:hover{
-    color: #ff004f;
+    color: #ff5e00;
     transform: translateY(-5px);
 }
 .btn.btn2{
     display: inline-block;
-    background: #ff004f;
+    background: #ff1e00;
 }
 
 .contact-right form{
