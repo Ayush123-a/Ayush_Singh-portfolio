@@ -128,7 +128,7 @@ nav ul li a:hover::after{
     margin: 10px 0;
 }
 .tab-contents ul li span{
-    color: #498ad4;
+    color: #ec0c1f;
     font-size: 14px;
 }
 .tab-contents{
@@ -173,7 +173,7 @@ nav ul li a:hover::after{
     display: inline-block;
 }
 .services-list div:hover{
-    background: #20bbcf;
+    background: #10bdb4;
     transform: translate(-10px);
 }
 
@@ -319,6 +319,7 @@ form .btn2{
     margin-top: 20px;
 }
 
+
 /* ---------------css for small screens----------- */
 nav .fas{
     display: none; /* FIXED SELECTOR */
@@ -340,7 +341,7 @@ nav .fas{
         font-size: 25px;
     }
     nav ul{
-        background: #10b9e4;
+        background: #cc22a2;
         position: fixed;
         top: 0;
         right: -200px;
@@ -370,6 +371,9 @@ nav .fas{
 #about p {
     font-size: 14px;
     line-height: 22px;
+}
+#about li {
+    font-size: 16px;
 }
 .about-col-1, .about-col-2{
     flex-basis: 100%;
